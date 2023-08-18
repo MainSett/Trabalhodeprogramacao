@@ -1,0 +1,49 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #007BFF;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header img {
+    max-width: 200px;
+    border-radius: 50%;
+  }
+  
+  /* Estilos das seções */
+  section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  /* Estilos dos trabalhos científicos */
+  .trabalho {
+    margin-bottom: 20px;
+  }
+  
+  .trabalho h3 {
+    margin: 10px 0;
+  }
+  
+  .trabalho img {
+    max-width: 300px;
+  }
+  
+  /* Estilos dos links */
+  a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
